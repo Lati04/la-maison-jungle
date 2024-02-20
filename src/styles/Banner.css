@@ -1,0 +1,15 @@
+.lmg-banner{
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+}
+
+.lmg-title{
+    padding-left: 32px;
+}
+
+.lmg-logo{
+    height: 45px;
+    width: 45px;
+}
